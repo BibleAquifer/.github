@@ -1,5 +1,5 @@
 # Aquifer Bible Resources
-Access trustworthy and openly-licensed Bible content in multiple languages through the Aquifer Github repositories.
+Access trustworthy and openly-licensed Bible content in multiple languages through the Aquifer Github repositories. Browse our [resource catalog](https://bibleaquifer.github.io/catalog.html).
 
 ## Open Source, Freely Available Bible Resources for the Global Church
 In nature, aquifers are filled with fresh water. In the global church, there is a need for an Aquifer of another kind - one filled with trustworthy, openly licensed, unrestricted Bible resources for global translation organizations. The Aquifer on Github enables the development of Bible translation apps and other biblical resources in many more languages. With Aquifer Bible resources available on Github in an open source digital content library, the acceleration of high quality Bible translations for all nations, people and languages can be achieved.
